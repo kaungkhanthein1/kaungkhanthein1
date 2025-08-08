@@ -38,4 +38,3 @@
 ---
 
 ### 📌 Pinned Repositories
-Use the GitHub "Pin repositories" feature to show off your top projects on your profile page.
