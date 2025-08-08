@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Kaung Khant Hein👋</h1>
+<h1 align="center">👋 Hey, I'm Kaung Khant Hein</h1>
 <p align="center">Frontend Dev | React Enthusiast | Open to Opportunities</p>
 
 ---
