@@ -1,13 +1,12 @@
 <h1 align="center">👋 Hey, I'm Kaung Khant Hein</h1>
-<p align="center">Frontend Dev | React Enthusiast | Open to Opportunities</p>
+<p align="center">Software Engineer . Full Stack & Mobile</p>
 
 ---
 
 ### 🚀 About Me
-- 🔧 I build frontend apps with React, TailwindCSS, TypeScript & Zustand
-- 🧠 Currently learning backend with Node.js and AWS
-- 🌱 Passionate about clean UI/UX and performance
-- 📍 Based in Da Nang, Vietnam
+- I build production-ready web and mobile applications with a focus on performance, localization, and maintainable architecture. 
+- My experience spans React, React Native (CLI & Expo), TypeScript, Tailwind CSS, Go backends, and Medusa.js e-commerce platforms.
+- Based in Da Nang, Vietnam
 
 ---
 
