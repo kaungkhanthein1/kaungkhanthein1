@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 - I build production-ready web and mobile applications with a focus on performance, localization, and maintainable architecture. 
 - My experience spans React, React Native (CLI & Expo), TypeScript, Tailwind CSS, Go backends, and Medusa.js e-commerce platforms.
 - Based in Da Nang, Vietnam
